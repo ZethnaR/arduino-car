@@ -16,7 +16,7 @@ const int echoPin = 7;
 Servo ultrasonicServo;
 int position = 0; // Is it not self-explanatory?
 
-// I2C Module LCD (Test only)
+// I2C Module LCD (Test only, not included here btw)
 
 //This will run only one time.
 void setup(){
